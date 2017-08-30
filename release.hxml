@@ -1,0 +1,12 @@
+-main Main 
+-cp lime
+-D lime=5.2.0
+-D tools=5.2.0
+-D howlerjs
+-D no-compilation
+-D lime-opengl
+-D lime-html5
+-D html5
+-D web
+-js Export/out.js
+-D html5
